@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Aryansemwal011
+- 👋 Hi, I’m @Aryansemwal
 - 👀 I’m interested in new technologies
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on many projects
-- 📫 How to reach me 
+- 📫 How to reach me (email-aryansemwal32@gmail.com)
 - ⚡ Fun fact: Did you know that the first-ever computer bug was a real bug? In 1947, computer scientist Grace Hopper found a moth causing issues in the Mark II computer at Harvard University. She taped it into her logbook and famously referred to it as the "first actual case of bug being found." This is where the term "debugging" comes from!
 
 <!---
